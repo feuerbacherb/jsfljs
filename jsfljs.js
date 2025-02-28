@@ -1,3 +1,4 @@
+alert('The remote file has been loaded');
 
   function imgSwitch(id, color, cat) {
     console.log(`Entered imgSwitch(id = ${id}, color = ${color}, cat = ${cat})`);
